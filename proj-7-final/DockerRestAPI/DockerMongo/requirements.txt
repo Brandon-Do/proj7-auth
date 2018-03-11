@@ -1,0 +1,8 @@
+flask
+pymongo
+arrow
+pyarrow
+Flask
+nose
+pep8
+autopep8
